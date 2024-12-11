@@ -1,8 +1,5 @@
-git clone https://github.com/tu-usuario/conversion_km_to_miles.git
-cd conversion_km_to_miles
+# Horizontal swiper
+For starting screen
 
-git add conversion_km_to_miles.py
-
-git commit -m "Add neural network for KM to Miles conversion"
-
-git push origin main
+#Np Install
+![Modelos de Texto (Text-based Models)](https://github.com/user-attachments/assets/a28214b0-cdb1-4b38-a4e5-f3ac8d83523c)
